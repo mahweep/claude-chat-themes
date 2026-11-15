@@ -1,0 +1,1 @@
+{ "name": "video-themes", "version": "0.1.0", "description": "Eight animated ASCII-tile backgrounds for the desktop app, with a picker above the text box: /chat-theme", "types": "./types/index.d.ts" }
